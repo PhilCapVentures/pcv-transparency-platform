@@ -71,8 +71,7 @@ If you discover a security vulnerability or data risk, please refer to
 
 ## 📬 Contact
 
-**Philanthro Capital Ventures**  
-21333 Velicata Street  
+**Philanthro Capital Ventures**   
 Woodland Hills, CA 91364  
 Email: [info@philcapventures.org](mailto:info@philcapventures.org)  
 Website: [philcapventures.org](https://philcapventures.org)
