@@ -1,86 +1,89 @@
-# Philanthro Capital Ventures – Contributors & Developer Access Policy
+# Philanthro Capital Ventures – GitHub Privacy & Visibility Policy
 
-## Purpose
-This policy defines contributor roles, permissions, and development procedures for all individuals and organizations working on the **Philanthro Capital Ventures (PCV)** GitHub repositories.  
-It ensures the integrity, transparency, and protection of PCV’s intellectual property while allowing external developers to contribute responsibly.
-
----
-
-## 1. Ownership and Authority
-All repositories, software, and documentation under the **Philanthro Capital Ventures (PCV)** organization are the exclusive intellectual property of **Philanthro Capital Ventures**, unless otherwise stated in writing.
-
-The **President of PCV (Gary Morris)** retains full **administrative and ownership rights** of all repositories and is the only person authorized to:
-- Grant or revoke access
-- Approve licensing changes
-- Manage repository visibility (public/private)
-- Approve major merges into the `main` or `production` branches
+## Introduction
+This policy defines the privacy, visibility, and access control settings for the **Philanthro Capital Ventures (PCV)** GitHub account and associated repositories.  
+The goal is to maintain transparency in alignment with PCV’s mission of **“Integrity through Transparency”** while protecting sensitive information and ensuring account security.
 
 ---
 
-## 2. Access Levels
+## 1. Public vs. Private Information
 
-| Role | Permissions | Typical Use Case |
-|------|--------------|------------------|
-| **Admin** | Full control, including repo deletion, visibility changes, and access management. | Reserved for PCV ownership only (Gary Morris). |
-| **Maintain** | Manage pull requests, branches, and issues; merge approved code. | Senior developer or technical lead (e.g., Jetso Analin, Web5 Nexus). |
-| **Write** | Push code, create branches, submit pull requests, view issues. | Active contributors or developers under supervision. |
-| **Read** | View repository contents only. | Reviewers, partners, or auditors. |
+**Publicly visible to anyone visiting the PCV GitHub profile:**
+- Profile name and handle: *Gary Morris (PhilCapVentures)*
+- Profile bio (professional background and mission statement)
+- Organization name: *Philanthro Capital Ventures*
+- Pinned or public repositories (e.g., *pcv-transparency-platform*)
+- Profile logo or avatar
+- Contribution activity (limited to public repositories)
+- Public followers or stars
 
----
-
-## 3. Onboarding Developers
-
-All external developers (including Web5 Nexus staff) must:
-1. Provide an individual **GitHub username** (no shared or company-wide accounts).  
-2. Enable **Two-Factor Authentication (2FA)** using a hardware key or authenticator app.  
-3. Sign or agree to PCV’s development terms confirming that all work is:
-   - Performed under a **work-for-hire** arrangement.  
-   - Owned exclusively by **Philanthro Capital Ventures**.  
-   - Licensed to PCV under open-source or nonprofit terms only as pre-approved.  
+**Private and not visible unless explicitly shared:**
+- Private repositories, code, branches, and commits
+- Issues, discussions, and pull requests in private repositories
+- Email address (unless made public)
+- Two-Factor Authentication (2FA) settings and recovery codes
+- Personal account, billing data, and registered SSH keys
 
 ---
 
-## 4. Code Management Practices
+## 2. Adjusting Visibility and Privacy
 
-To maintain a transparent and auditable workflow:
-- All commits must be tied to identifiable GitHub accounts.  
-- Use **feature branches** named in the format `feature/description`.  
-- Submit pull requests for every change targeting the `main` branch.  
-- Each pull request must be reviewed by at least one **Maintainer** before merging.  
-- No force pushes or deletions are permitted on `main`.  
-- All merges must include a clear commit message describing the change.
+**To control profile visibility:**
+1. Navigate to **Settings → Public Profile**
+2. Remove or replace *Location* text (e.g., “California, USA”)
+3. Check **“Keep my email address private”**
+4. Edit or shorten your *Bio* as needed
 
----
+**To change repository visibility:**
+- Go to the repository (e.g., *pcv-transparency-platform*)  
+- Click **Settings → Danger Zone → Change visibility → Private/Public**  
+- Confirm by typing the repository name
 
-## 5. Security & Confidentiality
-
-Developers may not:
-- Share repository credentials or clone private repos outside authorized environments.  
-- Store PCV code on unsecured personal drives or cloud accounts.  
-- Upload any sensitive data (e.g., donor records, API keys, financial information) to GitHub.  
-
-Violations will result in immediate access revocation.
-
----
-
-## 6. Termination or Completion of Work
-
-Upon project completion or termination of contract:
-- All contributors must delete local copies of private code.  
-- Access privileges will be revoked by PCV’s admin.  
-- Contributors may retain public portfolio references **only for approved, open-source portions**.
+**To manage collaborators:**
+- Go to **Settings → Manage Access → Add People**  
+- Assign roles:
+  - **Read** – View only  
+  - **Write** – Push code and create branches  
+  - **Maintain** – Manage branches, pull requests, and teams  
+  - **Admin** – Full control (owners only)
 
 ---
 
-## 7. Contacts
+## 3. Security Recommendations
 
-For all permissions or technical access questions:
-- **Repository Owner / Administrator:**  
-  Gary Morris – President, *Philanthro Capital Ventures*  
-  📧 gary@philcapventures.org  
+All PCV contributors must enable **Two-Factor Authentication (2FA)** using:
+- Hardware Security Key (e.g., YubiKey)
+- Authenticator App (e.g., Google Authenticator, Authy)
+- GitHub Mobile
 
-- **Lead Developer (External Partner):**  
-  Jetso Analin – CEO, *Web5 Nexus*
+**To verify 2FA:**
+Go to **Settings → Password and Authentication → Two-Factor Authentication**
+
+---
+
+## 4. Organizational and Developer Access
+
+When working with external developers (e.g., **Web5 Nexus**):
+
+- Add each developer individually (never shared accounts)
+- Assign **Write** access for contributors and **Maintain** access for team leads
+- The repository owner retains **Admin** control
+- Enable branch protection rules under  
+  **Settings → Branches → Add Rule → Protect main branch**
+
+---
+
+## 5. Transparency vs. Privacy Balance
+
+While PCV promotes open-source accountability, **private or legally sensitive information** (such as IRS filings, donor data, or financial records) must never be posted publicly.  
+Use **encrypted storage or private cloud systems** for all confidential documents.
+
+---
+
+## 6. Revision Control
+
+This policy will be reviewed annually or upon major platform or organizational changes.  
+All revisions must be approved by the **PCV President** or authorized delegate.
 
 ---
 
@@ -90,4 +93,3 @@ For all permissions or technical access questions:
 President, *Philanthro Capital Ventures*  
 *Version 1.0 – October 2025*
 
-**Updated SECURITY.md with GitHub Privacy & Visibility Policy (v1.0)**
