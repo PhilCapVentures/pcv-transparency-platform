@@ -79,8 +79,7 @@ For all permissions or technical access questions:
   Gary Morris – President, *Philanthro Capital Ventures*  
   📧 gary@philcapventures.org  
 
-- **Lead Developer (External Partner):**  
-  Jetso Analin – CEO, *Web5 Nexus*
+- **Lead Developer (External Partner):**
 
 ---
 
