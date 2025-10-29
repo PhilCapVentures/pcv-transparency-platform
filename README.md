@@ -71,6 +71,14 @@ If you discover a security vulnerability or data risk, please refer to
 
 ➡️ Learn more in our [Mission, Vision & Values](./MISSION_VISION_VALUES.md) statement.
 
+## 🧩 Governance & Access Policies
+
+---
+
+- [`CONTRIBUTORS_ACCESS_POLICY.md`](./CONTRIBUTORS_ACCESS_POLICY.md) — defines contributor permissions  
+- [`REPOSITORY_GOVERNANCE_POLICY.md`](./REPOSITORY_GOVERNANCE_POLICY.md) — outlines decision-making & structure  
+- [`NOTICE`](./NOTICE) — legal attributions and notices
+
 ---
 
 ## 📬 Contact
@@ -87,5 +95,32 @@ Website: [philcapventures.org](https://philcapventures.org)
 Every transaction is viewable on-chain through our blockchain donation wallet.  
 To support our mission, you can donate in:  
 **ETH, USDC, USDT, MATIC, or BTC.**
+
+---
+
+## 🧠 Repository Structure
+
+For an overview of all project files and documents, visit the [docs directory](./docs/)  
+or see key governance files below:
+
+- [`MISSION_VISION_VALUES.md`](./MISSION_VISION_VALUES.md) – Organizational foundation  
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md) – Collaboration guidelines  
+- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) – Community standards  
+- [`CONTRIBUTORS_ACCESS_POLICY.md`](./CONTRIBUTORS_ACCESS_POLICY.md) – Contributor permissions  
+- [`REPOSITORY_GOVERNANCE_POLICY.md`](./REPOSITORY_GOVERNANCE_POLICY.md) – Governance structure  
+- [`LICENSE`](./LICENSE) – Legal license (MIT)  
+- [`SECURITY.md`](./SECURITY.md) – Responsible disclosure  
+- [`NOTICE`](./NOTICE) – Legal attributions  
+
+---
+
+## 🔮 Next Steps
+
+- Add `ROADMAP.md` for development milestones and partnerships  
+- Publish `/docs/README.md` to organize your whitepapers & PDFs  
+- Recruit open-source collaborators via DevFest & ETHDenver  
+- Begin transparent wallet tracking for PCV on-chain donations
+
+---
 
 > “Philanthro Capital Ventures represents a new era of philanthropy — enabling communities worldwide to give confidently and see measurable results.”
