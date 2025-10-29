@@ -8,9 +8,9 @@ PCV merges blockchain technology with charitable giving to enable donors, nonpro
 
 ## 🌍 Mission
 
-Our mission is simple yet powerful:  
-**To build Integrity through Transparency.**  
-We leverage stablecoins, open ledgers, and blockchain infrastructure to ensure that every philanthropic dollar is traceable, verifiable, and accountable.
+Philanthro Capital Ventures (PCV) is dedicated to building **Integrity through Transparency** by merging blockchain technology with philanthropy.  
+
+Our mission is to **develop, assist, and promote beneficial change** across community-based opportunities — including **disaster preparedness, education, health and human services, and the arts** — through open-source transparency tools that make every transaction traceable, verifiable, and accountable.
 
 ---
 
