@@ -69,6 +69,10 @@ If you discover a security vulnerability or data risk, please refer to
 
 ---
 
+➡️ Learn more in our [Mission, Vision & Values](./MISSION_VISION_VALUES.md) statement.
+
+---
+
 ## 📬 Contact
 
 **Philanthro Capital Ventures**   
