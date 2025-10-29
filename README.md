@@ -81,12 +81,14 @@ If you discover a security vulnerability or data risk, please refer to
 
 ---
 
-## 📬 Contact
+## 📬 Contact  
 
-**Philanthro Capital Ventures**   
+**Philanthro Capital Ventures**  
 Woodland Hills, CA 91364  
-Email: [info@philcapventures.org](mailto:info@philcapventures.org)  
-Website: [philcapventures.org](https://philcapventures.org)
+🌐 [philcapventures.org](https://philcapventures.org)  
+📧 [info@philcapventures.org](mailto:info@philcapventures.org)  
+🐦 [@philcapventures](https://x.com/philcapventures)  
+💼 [LinkedIn: Gary Morris](https://www.linkedin.com/in/gary-morris-19b67219/)  
 
 ---
 
