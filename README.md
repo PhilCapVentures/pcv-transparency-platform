@@ -118,7 +118,6 @@ or see key governance files below:
 
 - Add `ROADMAP.md` for development milestones and partnerships  
 - Publish `/docs/README.md` to organize your whitepapers & PDFs  
-- Recruit open-source collaborators via DevFest & ETHDenver  
 - Begin transparent wallet tracking for PCV on-chain donations
 
 ---
