@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./Philanthro-Capital-Ventures/media/pcv_logo.png" width="500" alt="philanthro capital ventures logo">
 </p>
-<p align="center">
-  <img src="./Philanthro-Capital-Ventures/media/pcv_logo.png" width="500" alt="philanthro capital ventures logo">
-</p>
 
 ## 📑 table of contents
 - [🌍 mission](#-mission)
