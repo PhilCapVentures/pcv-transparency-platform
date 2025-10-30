@@ -1,7 +1,7 @@
-# Media Folder
+# media folder
 
-Contains official Philanthro Capital Ventures assets for use in presentations and documentation.
+contains official philanthro capital ventures assets for use in presentations and documentation.
 
-- [PCV_Logo.png](./PCV_Logo.png) – official logo for branding  
-- [PCV_PitchDeck.pdf](./PCV_PitchDeck.pdf) – latest investor/partner pitch deck  
-- [PCV_Wordcloud.png](./PCV_Wordcloud.png) – visual for mission/vision
+- [pcv_logo.png](./pcv_logo.png) – official logo for branding  
+- [pcv_pitchdeck.pdf](./pcv_pitchdeck.pdf) – latest investor/partner pitch deck  
+- [pcv_wordcloud.png](./pcv_wordcloud.png) – visual for mission/vision
