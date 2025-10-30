@@ -1,127 +1,127 @@
-# Philanthro Capital Ventures Transparency Platform
+# philanthro capital ventures transparency platform
 
-**Open-source blockchain transparency framework** built by **Philanthro Capital Ventures (PCV)** to bring *Integrity through Transparency* to global philanthropy.
+**open-source blockchain transparency framework** built by **philanthro capital ventures (pcv)** to bring *integrity through transparency* to global philanthropy.
 
-PCV merges blockchain technology with charitable giving to enable donors, nonprofits, and innovators to verify every transaction — from donation to impact — in real time.
-
----
-
-## 🌍 Mission
-
-Philanthro Capital Ventures (PCV) is dedicated to building **Integrity through Transparency** by merging blockchain technology with philanthropy.  
-
-Our mission is to **develop, assist, and promote beneficial change** across community-based opportunities — including **disaster preparedness, education, health and human services, and the arts** — through open-source transparency tools that make every transaction traceable, verifiable, and accountable.
+pcv merges blockchain technology with charitable giving to enable donors, nonprofits, and innovators to verify every transaction — from donation to impact — in real time.
 
 ---
 
-## 🔗 Features
+## 🌍 mission
 
-- Transparent donation tracking on-chain (ETH, USDC, USDT, MATIC, BTC)  
-- Smart contract-based proof of allocation  
-- Real-time blockchain audit trail for charitable spending  
-- DAO-ready framework for governance and reporting  
-- Fully open-source and community-auditable infrastructure  
+philanthro capital ventures (pcv) is dedicated to building **integrity through transparency** by merging blockchain technology with philanthropy.  
+
+our mission is to **develop, assist, and promote beneficial change** across community-based opportunities — including **disaster preparedness, education, health and human services, and the arts** — through open-source transparency tools that make every transaction traceable, verifiable, and accountable.
 
 ---
 
-## 🧠 Repository Structure
+## 🔗 features
+
+- transparent donation tracking on-chain (eth, usdc, usdt, matic, btc)  
+- smart contract-based proof of allocation  
+- real-time blockchain audit trail for charitable spending  
+- dao-ready framework for governance and reporting  
+- fully open-source and community-auditable infrastructure  
+
+---
+
+## 🧠 repository structure
 
 pcv-transparency-platform/
 │
-├── PCV_Logo.png
-├── PCV_WordCloud.png
-├── PCV_PitchDeck.pdf
-├── Philanthro_Capital_Ventures_White_Paper.pdf
-├── Founder_Statement_PCV.pdf
-├── Intel_Memory_Bottleneck_and_Rambus_Legacy.pdf
-├── Rambus_And_My_Mission_Journey_PCV.pdf
-├── Fraud_Example_Long_Beach_Food_Bank.pdf
+├── pcv_logo.png
+├── pcv_wordcloud.png
+├── pcv_pitchdeck.pdf
+├── philanthro_capital_ventures_white_paper.pdf
+├── founder_statement_pcv.pdf
+├── intel_memory_bottleneck_and_rambus_legacy.pdf
+├── rambus_and_my_mission_journey_pcv.pdf
+├── fraud_example_long_beach_food_bank.pdf
 │
-├── README.md                 ← You are here
-├── CONTRIBUTING.md           ← Collaboration guidelines
-├── CODE_OF_CONDUCT.md        ← Community standards
-├── LICENSE                   ← Legal license (MIT)
-└── SECURITY.md               ← Responsible disclosure process
+├── readme.md                 ← you are here
+├── contributing.md           ← collaboration guidelines
+├── code_of_conduct.md        ← community standards
+├── license                   ← legal license (mit)
+└── security.md               ← responsible disclosure process
 
 ---
 
-## 🤝 Contributing
+## 🤝 contributing
 
-We welcome developers, auditors, and transparency advocates to collaborate.  
-Please review the following before contributing:
+we welcome developers, auditors, and transparency advocates to collaborate.  
+please review the following before contributing:
 
-- [`CONTRIBUTING.md`](./CONTRIBUTING.md)  
-- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
-
----
-
-## 🧾 License
-
-This project is licensed under the MIT License.  
-See the [`LICENSE`](./LICENSE) file for details.
+- [`contributing.md`](./contributing.md)  
+- [`code_of_conduct.md`](./code_of_conduct.md)
 
 ---
 
-## 🛡️ Security
+## 🧾 license
 
-If you discover a security vulnerability or data risk, please refer to  
-[`SECURITY.md`](./SECURITY.md) for our responsible disclosure process.
-
----
-
-➡️ Learn more in our [Mission, Vision & Values](./MISSION_VISION_VALUES.md) statement.
-
-## 🧩 Governance & Access Policies
+this project is licensed under the mit license.  
+see the [`license`](./license) file for details.
 
 ---
 
-- [`CONTRIBUTORS_ACCESS_POLICY.md`](./CONTRIBUTORS_ACCESS_POLICY.md) — defines contributor permissions  
-- [`REPOSITORY_GOVERNANCE_POLICY.md`](./REPOSITORY_GOVERNANCE_POLICY.md) — outlines decision-making & structure  
-- [`NOTICE`](./NOTICE) — legal attributions and notices
+## 🛡️ security
+
+if you discover a security vulnerability or data risk, please refer to  
+[`security.md`](./security.md) for our responsible disclosure process.
 
 ---
 
-## 📬 Contact  
+➡️ learn more in our [mission, vision & values](./mission_vision_values.md) statement.
 
-**Philanthro Capital Ventures**  
-Woodland Hills, CA 91364  
+## 🧩 governance & access policies
+
+---
+
+- [`contributors_access_policy.md`](./contributors_access_policy.md) — defines contributor permissions  
+- [`repository_governance_policy.md`](./repository_governance_policy.md) — outlines decision-making & structure  
+- [`notice`](./notice) — legal attributions and notices
+
+---
+
+## 📬 contact  
+
+**philanthro capital ventures**  
+woodland hills, ca 91364  
 🌐 [philcapventures.org](https://philcapventures.org)  
 📧 [info@philcapventures.org](mailto:info@philcapventures.org)  
 🐦 [@philcapventures](https://x.com/philcapventures)  
-💼 [LinkedIn: Gary Morris](https://www.linkedin.com/in/gary-morris-19b67219/)  
+💼 [linkedin: gary morris](https://www.linkedin.com/in/gary-morris-19b67219/)  
 
 ---
 
-## 🪙 Support Transparent Philanthropy
+## 🪙 support transparent philanthropy
 
-Every transaction is viewable on-chain through our blockchain donation wallet.  
-To support our mission, you can donate in:  
-**ETH, USDC, USDT, MATIC, or BTC.**
+every transaction is viewable on-chain through our blockchain donation wallet.  
+to support our mission, you can donate in:  
+**eth, usdc, usdt, matic, or btc.**
 
 ---
 
-## 🧠 Repository Structure
+## 🧠 repository structure
 
-For an overview of all project files and documents, visit the [docs directory](./docs/)  
+for an overview of all project files and documents, visit the [docs directory](./docs/)  
 or see key governance files below:
 
-- [`MISSION_VISION_VALUES.md`](./MISSION_VISION_VALUES.md) – Organizational foundation  
-- [`CONTRIBUTING.md`](./CONTRIBUTING.md) – Collaboration guidelines  
-- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) – Community standards  
-- [`CONTRIBUTORS_ACCESS_POLICY.md`](./CONTRIBUTORS_ACCESS_POLICY.md) – Contributor permissions  
-- [`REPOSITORY_GOVERNANCE_POLICY.md`](./REPOSITORY_GOVERNANCE_POLICY.md) – Governance structure  
-- [`LICENSE`](./LICENSE) – Legal license (MIT)  
-- [`SECURITY.md`](./SECURITY.md) – Responsible disclosure  
-- [`NOTICE`](./NOTICE) – Legal attributions  
+- [`mission_vision_values.md`](./mission_vision_values.md) – organizational foundation  
+- [`contributing.md`](./contributing.md) – collaboration guidelines  
+- [`code_of_conduct.md`](./code_of_conduct.md) – community standards  
+- [`contributors_access_policy.md`](./contributors_access_policy.md) – contributor permissions  
+- [`repository_governance_policy.md`](./repository_governance_policy.md) – governance structure  
+- [`license`](./license) – legal license (mit)  
+- [`security.md`](./security.md) – responsible disclosure  
+- [`notice`](./notice) – legal attributions  
 
 ---
 
-## 🔮 Next Steps
+## 🔮 next steps
 
-- Add `ROADMAP.md` for development milestones and partnerships  
-- Publish `/docs/README.md` to organize your whitepapers & PDFs  
-- Begin transparent wallet tracking for PCV on-chain donations
+- add `roadmap.md` for development milestones and partnerships  
+- publish `/docs/readme.md` to organize your whitepapers & pdfs  
+- begin transparent wallet tracking for pcv on-chain donations
 
 ---
 
-> “Philanthro Capital Ventures represents a new era of philanthropy — enabling communities worldwide to give confidently and see measurable results.”
+> “philanthro capital ventures represents a new era of philanthropy — enabling communities worldwide to give confidently and see measurable results.”
