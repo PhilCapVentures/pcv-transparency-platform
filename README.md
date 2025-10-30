@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Philanthro-Capital-Ventures/media/pcv_logo.png" width="500" alt="philanthro capital ventures logo">
+</p>
+
 # philanthro capital ventures transparency platform
 
 **open-source blockchain transparency framework** built by **philanthro capital ventures (pcv)** to bring *integrity through transparency* to global philanthropy.
