@@ -17,6 +17,9 @@
 # philanthro capital ventures transparency platform
 
 **open-source blockchain transparency framework** built by **philanthro capital ventures (pcv)** to bring *integrity through transparency* to global philanthropy.
+![license: mit](https://img.shields.io/badge/license-MIT-green)
+![build: passing](https://img.shields.io/badge/build-passing-brightgreen)
+![status: active](https://img.shields.io/badge/status-active-blue)
 
 pcv merges blockchain technology with charitable giving to enable donors, nonprofits, and innovators to verify every transaction — from donation to impact — in real time.
 
