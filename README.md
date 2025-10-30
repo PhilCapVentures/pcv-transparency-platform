@@ -1,6 +1,24 @@
 <p align="center">
   <img src="./Philanthro-Capital-Ventures/media/pcv_logo.png" width="500" alt="philanthro capital ventures logo">
 </p>
+<p align="center">
+  <img src="./Philanthro-Capital-Ventures/media/pcv_logo.png" width="500" alt="philanthro capital ventures logo">
+</p>
+
+## 📑 table of contents
+- [🌍 mission](#-mission)
+- [🔗 features](#-features)
+- [🧠 repository structure](#-repository-structure)
+- [🤝 contributing](#-contributing)
+- [🧾 license](#-license)
+- [🛡️ security](#-security)
+- [🧩 governance & access policies](#-governance--access-policies)
+- [📬 contact](#-contact)
+- [🪙 support transparent philanthropy](#-support-transparent-philanthropy)
+- [🔮 next steps](#-next-steps)
+
+# philanthro capital ventures transparency platform
+...
 
 # philanthro capital ventures transparency platform
 
