@@ -1,54 +1,54 @@
-# 📚 Documentation Index  
-*Philanthro Capital Ventures Transparency Platform*
+# 📚 documentation index  
+*philanthro capital ventures transparency platform*
 
-Welcome to the documentation directory for **Philanthro Capital Ventures (PCV)** — a nonprofit initiative dedicated to building **Integrity through Transparency** in global philanthropy.
+welcome to the documentation directory for **philanthro capital ventures (pcv)** — a nonprofit initiative dedicated to building **integrity through transparency** in global philanthropy.
 
-This folder serves as a central hub for whitepapers, founder statements, research files, and related documentation supporting our blockchain transparency framework.
-
----
-
-## 🧭 Core Materials  
-
-- [Philanthro Capital Ventures White Paper](./Philanthro_Capital_Ventures_White_Paper.pdf)  
-  *Outlines the conceptual and technical foundation for blockchain-based philanthropic transparency.*
-
-- [Founder Statement](./Founder_Statement_PCV.pdf)  
-  *Gary Morris’ personal mission and the inspiration behind PCV’s open-source initiative.*
-
-- [Pitch Deck](./PCV_PitchDeck.pdf)  
-  *Visual overview of PCV’s goals, mission, and implementation strategy.*
-
-- [Fraud Example: Long Beach Food Bank](./Fraud_Example_Long_Beach_Food_Bank.pdf)  
-  *A case study illustrating the critical need for transparent donation tracking.*
+this folder serves as a central hub for whitepapers, founder statements, research files, and related documentation supporting our blockchain transparency framework.
 
 ---
 
-## 🧠 Supplemental Reading  
+## 🧭 core materials  
 
-- [Intel Memory Bottleneck and Rambus Legacy](./Intel_Memory_Bottleneck_and_Rambus_Legacy.pdf)  
-  *Historical context on hardware innovation and its relevance to transparency frameworks.*
+- [philanthro capital ventures white paper](./philanthro_capital_ventures_white_paper.pdf)  
+  *outlines the conceptual and technical foundation for blockchain-based philanthropic transparency.*
 
-- [Rambus and My Mission Journey](./Rambus_And_My_Mission_Journey_PCV.pdf)  
-  *A narrative connecting technology, integrity, and social impact.*
+- [founder statement](./founder_statement_pcv.pdf)  
+  *gary morris’ personal mission and the inspiration behind pcv’s open-source initiative.*
+
+- [pitch deck](./pcv_pitchdeck.pdf)  
+  *visual overview of pcv’s goals, mission, and implementation strategy.*
+
+- [fraud example: long beach food bank](./fraud_example_long_beach_food_bank.pdf)  
+  *a case study illustrating the critical need for transparent donation tracking.*
 
 ---
 
-## 🧩 Related Repositories  
+## 🧠 supplemental reading  
 
-If you’re viewing this documentation independently, explore our main repository:  
-➡️ [pcv-transparency-platform](https://github.com/PhilCapVentures/pcv-transparency-platform)
+- [intel memory bottleneck and rambus legacy](./intel_memory_bottleneck_and_rambus_legacy.pdf)  
+  *historical context on hardware innovation and its relevance to transparency frameworks.*
+
+- [rambus and my mission journey](./rambus_and_my_mission_journey_pcv.pdf)  
+  *a narrative connecting technology, integrity, and social impact.*
 
 ---
 
-## 📬 Contact  
+## 🧩 related repositories  
 
-**Philanthro Capital Ventures**  
-Woodland Hills, CA 91364  
+if you’re viewing this documentation independently, explore our main repository:  
+➡️ [pcv-transparency-platform](https://github.com/philcapventures/pcv-transparency-platform)
+
+---
+
+## 📬 contact  
+
+**philanthro capital ventures**  
+woodland hills, ca 91364  
 🌐 [philcapventures.org](https://philcapventures.org)  
 📧 [info@philcapventures.org](mailto:info@philcapventures.org)  
 🐦 [@philcapventures](https://x.com/philcapventures)  
-💼 [LinkedIn: Gary Morris](https://www.linkedin.com/in/gary-morris-19b67219/)  
+💼 [linkedin: gary morris](https://www.linkedin.com/in/gary-morris-19b67219/)  
 
 ---
 
-> “Transparency is not an option — it’s the foundation of trust.”
+> “transparency is not an option — it’s the foundation of trust.”
