@@ -15,9 +15,6 @@
 - [🔮 next steps](#-next-steps)
 
 # philanthro capital ventures transparency platform
-...
-
-# philanthro capital ventures transparency platform
 
 **open-source blockchain transparency framework** built by **philanthro capital ventures (pcv)** to bring *integrity through transparency* to global philanthropy.
 
