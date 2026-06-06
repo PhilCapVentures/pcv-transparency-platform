@@ -14,8 +14,8 @@ export const PROJECTS = [
   },
   {
     id: 'disaster_prep',
-    name: 'Disaster Prep Training',
-    description: 'Fund community disaster preparedness education and emergency response training.',
+    name: 'Disaster Preparedness Initiative',
+    description: 'Fund community disaster preparedness and related public education.',
     icon: '🛡️',
   },
 ]
