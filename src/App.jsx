@@ -31,7 +31,7 @@ export default function App() {
           </h1>
           <p className="text-gray-500">
             100% of your donation goes directly to your chosen initiative.
-            {' '}{ORG.name} is a Delaware corporation with nonprofit status pending (EIN {ORG.ein}).
+            <br />{ORG.name} is a Delaware corporation with<br />nonprofit status pending (EIN {ORG.ein}).
           </p>
         </div>
 
